@@ -1,5 +1,5 @@
 ![Waman's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamanbirajdar&theme=dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
 - 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
 - 👀 I’m interested in Data 
 - 🌱 I use daily: .python | .sql | .java(core) |
