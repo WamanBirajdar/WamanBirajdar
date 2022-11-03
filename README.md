@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm Waman Birajdar;Developer+;Always Learing New Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm Waman Birajdar;Developer;Always Learing New Things;)](https://git.io/typing-svg)
 
 ### Hi there 👋
 <div id="header" align="center">
