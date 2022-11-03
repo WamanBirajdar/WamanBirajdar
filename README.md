@@ -1,8 +1,7 @@
+### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> 
-### Hi there 👋
-
 
 
 - 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
