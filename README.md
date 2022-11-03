@@ -5,12 +5,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
+- 👀 I’m interested in Data 
+- 🌱 I use daily: .python | SQL(MongoDB,PL-SQL,MySql) | .java(core) |
+- 💞️ Fall in love with Python and SQL , See me on https://www.hackerrank.com/wamanbirajdar ground 
+- 📫 How to reach me - You can ping me on 
+      LinkedIn www.linkedin.com/in/waman-b-birajdar or 
+      You can mail me wamanbirajdar@gmail.com
+
+
+![Waman's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamanbirajdar&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamanbirajdar&langs_count=8)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/WamanBirajdar/WamanBirajdar/edit/main/README))
+<!---
+WamanBirajdar/WamanBirajdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
