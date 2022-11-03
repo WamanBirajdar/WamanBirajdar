@@ -5,6 +5,9 @@
 - 📫 How to reach me - You can ping me on 
       LinkedIn www.linkedin.com/in/waman-b-birajdar or 
       You can mail me wamanbirajdar@gmail.com
+ <p align="center">
+ <img src="URL_TO_YOUR_IMAGE_OR_GIF" width="100" height="100" />
+</p>
 
 ![Waman's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamanbirajdar&theme=dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
