@@ -8,8 +8,12 @@
 
 - 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
 - 👀 I’m interested in Data 
-- 🌱 I use daily: .python | SQL(MongoDB,PL-SQL,MySql) | .java(core) |
 - 💞️ Fall in love with Python and SQL , See me on https://www.hackerrank.com/wamanbirajdar ground 
+- 🌱 I use daily: 
+      Programming lan:- Python , C language , Core JAVA
+      Databases:-       MySql, SQL, MongoDB, PL-SQL
+      Scripting lan:-   Shell
+      
 - 📫 How to reach me - You can ping me on 
       LinkedIn www.linkedin.com/in/waman-b-birajdar or 
       You can mail me wamanbirajdar@gmail.com
