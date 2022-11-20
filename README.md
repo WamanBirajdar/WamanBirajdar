@@ -13,6 +13,7 @@
       Programming lan:- Python , C language , Core JAVA
       Databases:-       MySql, SQL, MongoDB, PL-SQL
       Scripting lan:-   Shell, Linux
+      Web Frameworks:-  Django, Flask
       
       
 - 📫 How to reach me - You can ping me on 
