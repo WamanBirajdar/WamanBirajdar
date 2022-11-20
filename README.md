@@ -12,7 +12,8 @@
 - 🌱 I use daily: 
       Programming lan:- Python , C language , Core JAVA
       Databases:-       MySql, SQL, MongoDB, PL-SQL
-      Scripting lan:-   Shell
+      Scripting lan:-   Shell, Linux
+      
       
 - 📫 How to reach me - You can ping me on 
       LinkedIn www.linkedin.com/in/waman-b-birajdar or 
