@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Waman+Birajdar;Big+Data+and+ML+Engineer;Python+Developer)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
