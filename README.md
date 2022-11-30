@@ -20,7 +20,7 @@
       LinkedIn www.linkedin.com/in/waman-b-birajdar or 
       You can mail me wamanbirajdar@gmail.com
 
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ![Waman's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamanbirajdar&theme=dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamanbirajdar&langs_count=8)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/WamanBirajdar/WamanBirajdar/edit/main/README))
