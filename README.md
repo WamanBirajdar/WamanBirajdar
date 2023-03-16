@@ -10,10 +10,14 @@
 - 👀 I’m interested in Data 
 - 💞️ Fall in love with Python and SQL , See me on https://www.hackerrank.com/wamanbirajdar ground 
 - 🌱 I use daily: 
-      Programming lan:- Python , C language , Core JAVA
-      Databases:-       MySql, SQL, MongoDB, PL-SQL
-      Scripting lan:-   Shell, Linux
-      Web Frameworks:-  Django, Flask
+      Programming lan:-     Python , Core JAVA
+      Scripting lan:-       Shell, Linux
+      Web Frameworks:-      Streamlit
+      Databases:-           MySql, SQL, MongoDB, Cassandra
+      Big Data Framework:-  Hadoop, Spark, Hive, HBase, Confluent KAFKA
+      AWS Clloud:-          AWS S3, EMR, Glue, LAMBDA, CloudWatch, Airflow
+      CI/CD:-               GIT
+      Hands On:-            Power BI, Statistics, Machine Learing.
       
       
 - 📫 How to reach me - You can ping me on 
