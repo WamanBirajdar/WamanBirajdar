@@ -8,15 +8,17 @@
 
 - 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
 - 👀 I’m interested in Data 
-- 💞️ Fall in love with Python and SQL , See me on https://www.hackerrank.com/wamanbirajdar ground 
+- 💞️ Fall in love with Python and SQL 
+      See my workout on https://www.hackerrank.com/wamanbirajdar ground 
 - 🌱 I use daily: 
       Programming lan:-     Python , Core JAVA
       Scripting lan:-       Shell, Linux
       Web Frameworks:-      Streamlit
       Databases:-           MySql, SQL, MongoDB, Cassandra
       Big Data Framework:-  Hadoop, Spark, Hive, HBase, Confluent KAFKA
-      AWS Clloud:-          AWS S3, EMR, Glue, LAMBDA, CloudWatch, Airflow
+      AWS Clloud:-          AWS S3, EMR, Glue, LAMBDA, CloudWatch
       CI/CD:-               GIT
+      Scheduler:-           Docker,Airflow
       Hands On:-            Power BI, Statistics, Machine Learing.
       
       
