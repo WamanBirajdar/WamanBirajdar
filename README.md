@@ -7,19 +7,19 @@
 
 
 - 👋 Hi, I’m @WamanBirajdar, According to me self thaught is best teacher
-- 👀 I’m interested in Data 
-- 💞️ Fall in love with Python and SQL 
-      See my workout on https://www.hackerrank.com/wamanbirajdar ground 
+- 👀 I’m interested in Data, i love to create Datapipelines and 
+- 💞️ As a dat Engineer My primary languages are Python and SQL. 
 - 🌱 I use daily: 
-      Programming lan:-     Python , Core JAVA
-      Scripting lan:-       Shell, Linux
+      Programming lan:-     Python , Core JAVA, SQL
+      Scripting lan:-       Shell, Linux, 
       Web Frameworks:-      Streamlit
+      FrontEnd Techno:-     HTML5, CSS3
       Databases:-           MySql, SQL, MongoDB, Cassandra
       Big Data Framework:-  Hadoop, Spark, Hive, HBase, Confluent KAFKA
-      AWS Clloud:-          AWS S3, EMR, Glue, LAMBDA, CloudWatch
-      CI/CD:-               GIT
+      AWS Cloud:-           AWS S3, EMR, Glue, LAMBDA, CloudWatch, IAMROLE,Redshift,DynamoDB 
+      CI/CD:-               Git/GitHub
       Scheduler:-           Docker,Airflow
-      Hands On:-            Power BI, Statistics, Machine Learing.
+      Hands On:-            Data Cleaning, Power BI, Statistics, Machine Learing.
       
       
 - 📫 How to reach me - You can ping me on 
