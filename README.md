@@ -10,10 +10,10 @@
 - 👀 I’m interested in Data, i love to create Datapipelines and 
 - 💞️ As a dat Engineer My primary languages are Python and SQL. 
 - 🌱 I use daily: 
-- Programming lan:-     Python , Core JAVA, Advanced SQL
-- Scripting lan:-       Shell Scripting, Linux, 
-- Web Frameworks:-      Streamlit
-- FrontEnd Techno:-     HTML5, CSS3
+  + Programming lan:-     Python , Core JAVA, Advanced SQL
+  + Scripting lan:-       Shell Scripting, Linux, 
+  + Web Frameworks:-      Streamlit
+  + FrontEnd Techno:-     HTML5, CSS3
 - Databases:-           MySql, SQL, MongoDB, Cassandra, HBase
 - Big Data Framework:-  Hadoop(HDFS, YARN, MR), Spark, Hive,Confluent KAFKA
 - AWS Cloud:-           AWS S3, AWS EMR, AWS Glue, AWS LAMBDA, AWS CloudWatch, AWS IAMROLE,AWS Redshift, AWS DynamoDB, AWS EC2 
