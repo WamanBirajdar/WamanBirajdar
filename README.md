@@ -10,8 +10,8 @@
 - 👀 I’m interested in Data, i love to create Datapipelines and 
 - 💞️ As a dat Engineer My primary languages are Python and SQL. 
 - 🌱 I use daily: 
-      - Programming lan:-     Python , Core JAVA, SQL
-      - Scripting lan:-       Shell, Linux, 
+      + Programming lan:-     Python , Core JAVA, SQL
+      + Scripting lan:-       Shell, Linux, 
       Web Frameworks:-      Streamlit
       FrontEnd Techno:-     HTML5, CSS3
       Databases:-           MySql, SQL, MongoDB, Cassandra
