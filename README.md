@@ -1,4 +1,4 @@
-## Hi there 👋
+                             - Hi I'm Waman 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Waman+Birajdar;Big+Data+and+ML+Engineer;Python+Developer)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -22,10 +22,11 @@
   + Hands On:-            Data Cleaning, Power BI, Statistics, Machine Learing.
       
       
-- 📫 How to reach me - You can ping me on 
-      LinkedIn www.linkedin.com/in/waman-b-birajdar or 
-      You can mail me wamanbirajdar@gmail.com
-
+Working as A Data Engineer
+Writing data-related artickes on Medium
+Coding advanced python scripts and SQL queries
+Developing lots of complicates data Egnineering projecs
+Creating many different types of data pipelines
 
 ![Waman's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamanbirajdar&theme=dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=wamanbirajdar&theme=highcontrast)](https://git.io/streak-stats)
